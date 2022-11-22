@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <object index="10" name="Table1" object_type="table"/>
+ <paragraph index="12" node_type="writer" parent_index="10">.center{</paragraph>
+ <object index="15" name="Table2" object_type="table"/>
+ <paragraph index="17" node_type="writer" parent_index="15">margin-left: auto;</paragraph>
+ <object index="20" name="Table3" object_type="table"/>
+ <paragraph index="22" node_type="writer" parent_index="20">margin-right: auto;</paragraph>
+ <object index="25" name="Table4" object_type="table"/>
+ <paragraph index="27" node_type="writer" parent_index="25">}</paragraph>
+ <object index="30" name="Table5" object_type="table"/>
+ <paragraph index="32" node_type="writer" parent_index="30">html,</paragraph>
+ <object index="35" name="Table6" object_type="table"/>
+ <paragraph index="37" node_type="writer" parent_index="35">body {</paragraph>
+ <object index="40" name="Table7" object_type="table"/>
+ <paragraph index="42" node_type="writer" parent_index="40">height: 100%;</paragraph>
+ <object index="45" name="Table8" object_type="table"/>
+ <paragraph index="47" node_type="writer" parent_index="45">}</paragraph>
+ <object index="50" name="Table9" object_type="table"/>
+ <paragraph index="52" node_type="writer" parent_index="50">body {</paragraph>
+ <object index="55" name="Table10" object_type="table"/>
+ <paragraph index="57" node_type="writer" parent_index="55">margin: 0;</paragraph>
+ <object index="60" name="Table11" object_type="table"/>
+ <object index="65" name="Table12" object_type="table"/>
+ <paragraph index="67" node_type="writer" parent_index="65">font-family: sans-serif;</paragraph>
+ <object index="70" name="Table13" object_type="table"/>
+ <paragraph index="72" node_type="writer" parent_index="70">font-weight: 100;</paragraph>
+ <object index="75" name="Table14" object_type="table"/>
+ <paragraph index="77" node_type="writer" parent_index="75">}</paragraph>
+ <object index="80" name="Table15" object_type="table"/>
+ <paragraph index="82" node_type="writer" parent_index="80">.container {</paragraph>
+ <object index="85" name="Table16" object_type="table"/>
+ <paragraph index="87" node_type="writer" parent_index="85">position: absolute;</paragraph>
+ <object index="90" name="Table17" object_type="table"/>
+ <paragraph index="92" node_type="writer" parent_index="90">top: 50%;</paragraph>
+ <object index="95" name="Table18" object_type="table"/>
+ <paragraph index="97" node_type="writer" parent_index="95">left: 50%;</paragraph>
+ <object index="100" name="Table19" object_type="table"/>
+ <paragraph index="102" node_type="writer" parent_index="100">transform: translate(-50%, -50%);</paragraph>
+ <object index="105" name="Table20" object_type="table"/>
+ <paragraph index="107" node_type="writer" parent_index="105">}</paragraph>
+ <object index="110" name="Table21" object_type="table"/>
+ <paragraph index="112" node_type="writer" parent_index="110">table {</paragraph>
+ <object index="115" name="Table22" object_type="table"/>
+ <paragraph index="117" node_type="writer" parent_index="115">width: 800px;</paragraph>
+ <object index="120" name="Table23" object_type="table"/>
+ <object index="125" name="Table24" object_type="table"/>
+ <paragraph index="127" node_type="writer" parent_index="125">border-collapse: collapse;</paragraph>
+ <object index="130" name="Table25" object_type="table"/>
+ <paragraph index="132" node_type="writer" parent_index="130">overflow: hidden;</paragraph>
+ <object index="135" name="Table26" object_type="table"/>
+ <paragraph index="137" node_type="writer" parent_index="135">box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);</paragraph>
+ <object index="140" name="Table27" object_type="table"/>
+ <paragraph index="142" node_type="writer" parent_index="140">}</paragraph>
+ <object index="145" name="Table28" object_type="table"/>
+ <paragraph index="147" node_type="writer" parent_index="145">tr,</paragraph>
+ <object index="150" name="Table29" object_type="table"/>
+ <paragraph index="152" node_type="writer" parent_index="150">td {</paragraph>
+ <object index="155" name="Table30" object_type="table"/>
+ <object index="160" name="Table31" object_type="table"/>
+ <paragraph index="162" node_type="writer" parent_index="160">padding: 15px;</paragraph>
+ <object index="165" name="Table32" object_type="table"/>
+ <paragraph index="167" node_type="writer" parent_index="165">background-color: rgba(255, 255, 255, 0.2);</paragraph>
+ <object index="170" name="Table33" object_type="table"/>
+ <paragraph index="172" node_type="writer" parent_index="170">background:#a9acc6 ;</paragraph>
+ <object index="175" name="Table34" object_type="table"/>
+ <paragraph index="177" node_type="writer" parent_index="175">color: white;</paragraph>
+ <object index="180" name="Table35" object_type="table"/>
+ <paragraph index="182" node_type="writer" parent_index="180">}</paragraph>
+ <object index="185" name="Table36" object_type="table"/>
+ <paragraph index="187" node_type="writer" parent_index="185">tr {</paragraph>
+ <object index="190" name="Table37" object_type="table"/>
+ <paragraph index="192" node_type="writer" parent_index="190">background: gray;</paragraph>
+ <object index="195" name="Table38" object_type="table"/>
+ <paragraph index="197" node_type="writer" parent_index="195">text-align: left;</paragraph>
+ <object index="200" name="Table39" object_type="table"/>
+ <paragraph index="202" node_type="writer" parent_index="200">}</paragraph>
+ <object index="205" name="Table40" object_type="table"/>
+ <paragraph index="207" node_type="writer" parent_index="205">thead td {</paragraph>
+ <object index="210" name="Table41" object_type="table"/>
+ <paragraph index="212" node_type="writer" parent_index="210">background-color:#55608f ;</paragraph>
+ <object index="215" name="Table42" object_type="table"/>
+ <paragraph index="217" node_type="writer" parent_index="215">}</paragraph>
+ <object index="220" name="Table43" object_type="table"/>
+ <paragraph index="222" node_type="writer" parent_index="220">tr td:hover {</paragraph>
+ <object index="225" name="Table44" object_type="table"/>
+ <paragraph index="227" node_type="writer" parent_index="225">background-color: rgba(255, 255, 255, 0.3);</paragraph>
+ <object index="230" name="Table45" object_type="table"/>
+ <paragraph index="232" node_type="writer" parent_index="230">}</paragraph>
+ <object index="235" name="Table46" object_type="table"/>
+ <paragraph index="237" node_type="writer" parent_index="235">tr td {</paragraph>
+ <object index="240" name="Table47" object_type="table"/>
+ <paragraph index="242" node_type="writer" parent_index="240">position: relative;</paragraph>
+ <object index="245" name="Table48" object_type="table"/>
+ <paragraph index="247" node_type="writer" parent_index="245">}</paragraph>
+ <object index="250" name="Table49" object_type="table"/>
+ <paragraph index="252" node_type="writer" parent_index="250">tr td:hover:before {</paragraph>
+ <object index="255" name="Table50" object_type="table"/>
+ <paragraph index="257" node_type="writer" parent_index="255">content: &quot;&quot;;</paragraph>
+ <object index="260" name="Table51" object_type="table"/>
+ <paragraph index="262" node_type="writer" parent_index="260">position: absolute;</paragraph>
+ <object index="265" name="Table52" object_type="table"/>
+ <paragraph index="267" node_type="writer" parent_index="265">left: 0;</paragraph>
+ <object index="270" name="Table53" object_type="table"/>
+ <paragraph index="272" node_type="writer" parent_index="270">right: 0;</paragraph>
+ <object index="275" name="Table54" object_type="table"/>
+ <paragraph index="277" node_type="writer" parent_index="275">top: -9999px;</paragraph>
+ <object index="280" name="Table55" object_type="table"/>
+ <paragraph index="282" node_type="writer" parent_index="280">bottom: -9999px;</paragraph>
+ <object index="285" name="Table56" object_type="table"/>
+ <paragraph index="287" node_type="writer" parent_index="285">background-color: rgba(255, 255, 255, 0.2);</paragraph>
+ <object index="290" name="Table57" object_type="table"/>
+ <paragraph index="292" node_type="writer" parent_index="290">z-index: -1;</paragraph>
+ <paragraph index="295" node_type="writer">}</paragraph>
+</indexing>
