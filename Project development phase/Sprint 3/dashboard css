@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <paragraph index="9" node_type="writer">Dashboard.css</paragraph>
+ <object index="10" name="Table1" object_type="table"/>
+ <paragraph index="14" node_type="writer" parent_index="10">* {</paragraph>
+ <object index="17" name="Table2" object_type="table"/>
+ <paragraph index="19" node_type="writer" parent_index="17">box-sizing: border-box;</paragraph>
+ <object index="22" name="Table3" object_type="table"/>
+ <object index="27" name="Table4" object_type="table"/>
+ <paragraph index="29" node_type="writer" parent_index="27">}</paragraph>
+ <object index="32" name="Table5" object_type="table"/>
+ <paragraph index="34" node_type="writer" parent_index="32">@font-face {</paragraph>
+ <object index="37" name="Table6" object_type="table"/>
+ <paragraph index="39" node_type="writer" parent_index="37">font-family: 'PT Sans';</paragraph>
+ <object index="42" name="Table7" object_type="table"/>
+ <paragraph index="44" node_type="writer" parent_index="42">font-style: normal;</paragraph>
+ <object index="47" name="Table8" object_type="table"/>
+ <paragraph index="49" node_type="writer" parent_index="47">font-weight: 400;</paragraph>
+ <object index="52" name="Table9" object_type="table"/>
+ <paragraph index="54" node_type="writer" parent_index="52">src: url(https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf) format('truetype');</paragraph>
+ <object index="57" name="Table10" object_type="table"/>
+ <object index="62" name="Table11" object_type="table"/>
+ <paragraph index="64" node_type="writer" parent_index="62">}</paragraph>
+ <object index="67" name="Table12" object_type="table"/>
+ <object index="72" name="Table13" object_type="table"/>
+ <paragraph index="74" node_type="writer" parent_index="72">.container{</paragraph>
+ <object index="77" name="Table14" object_type="table"/>
+ <object index="82" name="Table15" object_type="table"/>
+ <object index="87" name="Table16" object_type="table"/>
+ <paragraph index="89" node_type="writer" parent_index="87">font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;</paragraph>
+ <object index="92" name="Table17" object_type="table"/>
+ <paragraph index="94" node_type="writer" parent_index="92">font-weight: 600;</paragraph>
+ <object index="97" name="Table18" object_type="table"/>
+ <object index="102" name="Table19" object_type="table"/>
+ <paragraph index="104" node_type="writer" parent_index="102">width: auto;</paragraph>
+ <object index="107" name="Table20" object_type="table"/>
+ <paragraph index="109" node_type="writer" parent_index="107">margin: 80px;</paragraph>
+ <object index="112" name="Table21" object_type="table"/>
+ <object index="117" name="Table22" object_type="table"/>
+ <paragraph index="119" node_type="writer" parent_index="117">border-radius: 20px;</paragraph>
+ <object index="122" name="Table23" object_type="table"/>
+ <paragraph index="124" node_type="writer" parent_index="122">font-size: larger;</paragraph>
+ <object index="127" name="Table24" object_type="table"/>
+ <object index="132" name="Table25" object_type="table"/>
+ <paragraph index="134" node_type="writer" parent_index="132">}</paragraph>
+ <object index="137" name="Table26" object_type="table"/>
+ <paragraph index="139" node_type="writer" parent_index="137">html,</paragraph>
+ <object index="142" name="Table27" object_type="table"/>
+ <paragraph index="144" node_type="writer" parent_index="142">body {</paragraph>
+ <object index="147" name="Table28" object_type="table"/>
+ <paragraph index="149" node_type="writer" parent_index="147">margin: 0;</paragraph>
+ <object index="152" name="Table29" object_type="table"/>
+ <paragraph index="154" node_type="writer" parent_index="152">padding: 0;</paragraph>
+ <object index="157" name="Table30" object_type="table"/>
+ <paragraph index="159" node_type="writer" parent_index="157">}</paragraph>
+ <object index="162" name="Table31" object_type="table"/>
+ <paragraph index="164" node_type="writer" parent_index="162">body {</paragraph>
+ <object index="167" name="Table32" object_type="table"/>
+ <paragraph index="169" node_type="writer" parent_index="167">font-family: 'PT Sans', Arial, Verdana;</paragraph>
+ <object index="172" name="Table33" object_type="table"/>
+ <paragraph index="174" node_type="writer" parent_index="172">background-color: #eee;</paragraph>
+ <object index="177" name="Table34" object_type="table"/>
+ <paragraph index="179" node_type="writer" parent_index="177">}</paragraph>
+ <object index="182" name="Table35" object_type="table"/>
+ <object index="187" name="Table36" object_type="table"/>
+ <paragraph index="189" node_type="writer" parent_index="187">.menu {</paragraph>
+ <object index="192" name="Table37" object_type="table"/>
+ <object index="197" name="Table38" object_type="table"/>
+ <paragraph index="199" node_type="writer" parent_index="197">list-style: none;</paragraph>
+ <object index="202" name="Table39" object_type="table"/>
+ <paragraph index="204" node_type="writer" parent_index="202">margin: 0;</paragraph>
+ <object index="207" name="Table40" object_type="table"/>
+ <paragraph index="209" node_type="writer" parent_index="207">padding: 0;</paragraph>
+ <object index="212" name="Table41" object_type="table"/>
+ <paragraph index="214" node_type="writer" parent_index="212">width: 100%;</paragraph>
+ <object index="217" name="Table42" object_type="table"/>
+ <paragraph index="219" node_type="writer" parent_index="217">height: 120px;</paragraph>
+ <object index="222" name="Table43" object_type="table"/>
+ <paragraph index="224" node_type="writer" parent_index="222">margin: auto;</paragraph>
+ <object index="227" name="Table44" object_type="table"/>
+ <paragraph index="229" node_type="writer" parent_index="227">position: relative;</paragraph>
+ <object index="232" name="Table45" object_type="table"/>
+ <paragraph index="234" node_type="writer" parent_index="232">background-color: #2c3e50;</paragraph>
+ <object index="237" name="Table46" object_type="table"/>
+ <paragraph index="239" node_type="writer" parent_index="237">z-index: 7;</paragraph>
+ <object index="242" name="Table47" object_type="table"/>
+ <paragraph index="244" node_type="writer" parent_index="242">}</paragraph>
+ <object index="247" name="Table48" object_type="table"/>
+ <paragraph index="249" node_type="writer" parent_index="247">.menu li {</paragraph>
+ <object index="252" name="Table49" object_type="table"/>
+ <paragraph index="254" node_type="writer" parent_index="252">float: left;</paragraph>
+ <object index="257" name="Table50" object_type="table"/>
+ <paragraph index="259" node_type="writer" parent_index="257">width: 25%;</paragraph>
+ <object index="262" name="Table51" object_type="table"/>
+ <paragraph index="264" node_type="writer" parent_index="262">height: 100%;</paragraph>
+ <object index="267" name="Table52" object_type="table"/>
+ <paragraph index="269" node_type="writer" parent_index="267">margin: 0;</paragraph>
+ <object index="272" name="Table53" object_type="table"/>
+ <paragraph index="274" node_type="writer" parent_index="272">padding: 0;</paragraph>
+ <object index="277" name="Table54" object_type="table"/>
+ <paragraph index="279" node_type="writer" parent_index="277">}</paragraph>
+ <object index="282" name="Table55" object_type="table"/>
+ <paragraph index="284" node_type="writer" parent_index="282">.menu a {</paragraph>
+ <object index="287" name="Table56" object_type="table"/>
+ <paragraph index="289" node_type="writer" parent_index="287">display: flex;</paragraph>
+ <object index="292" name="Table57" object_type="table"/>
+ <paragraph index="294" node_type="writer" parent_index="292">width: 100%;</paragraph>
+ <object index="297" name="Table58" object_type="table"/>
+ <paragraph index="299" node_type="writer" parent_index="297">height: 100%;</paragraph>
+ <object index="302" name="Table59" object_type="table"/>
+ <paragraph index="304" node_type="writer" parent_index="302">justify-content: center;</paragraph>
+ <object index="307" name="Table60" object_type="table"/>
+ <paragraph index="309" node_type="writer" parent_index="307">align-items: center;</paragraph>
+ <object index="312" name="Table61" object_type="table"/>
+ <paragraph index="314" node_type="writer" parent_index="312">color: #fff;</paragraph>
+ <object index="317" name="Table62" object_type="table"/>
+ <paragraph index="319" node_type="writer" parent_index="317">text-decoration: none;</paragraph>
+ <object index="322" name="Table63" object_type="table"/>
+ <paragraph index="324" node_type="writer" parent_index="322">position: relative;</paragraph>
+ <object index="327" name="Table64" object_type="table"/>
+ <paragraph index="329" node_type="writer" parent_index="327">font-size: 18px;</paragraph>
+ <object index="332" name="Table65" object_type="table"/>
+ <paragraph index="334" node_type="writer" parent_index="332">z-index: 9;</paragraph>
+ <object index="337" name="Table66" object_type="table"/>
+ <paragraph index="339" node_type="writer" parent_index="337">}</paragraph>
+ <object index="342" name="Table67" object_type="table"/>
+ <paragraph index="344" node_type="writer" parent_index="342">a.active {</paragraph>
+ <object index="347" name="Table68" object_type="table"/>
+ <paragraph index="349" node_type="writer" parent_index="347">background-color: #e74c3c;</paragraph>
+ <object index="352" name="Table69" object_type="table"/>
+ <paragraph index="354" node_type="writer" parent_index="352">pointer-events: none;</paragraph>
+ <object index="357" name="Table70" object_type="table"/>
+ <paragraph index="359" node_type="writer" parent_index="357">}</paragraph>
+ <object index="362" name="Table71" object_type="table"/>
+ <paragraph index="364" node_type="writer" parent_index="362">li.slider {</paragraph>
+ <object index="367" name="Table72" object_type="table"/>
+ <paragraph index="369" node_type="writer" parent_index="367">width: 25%;</paragraph>
+ <object index="372" name="Table73" object_type="table"/>
+ <paragraph index="374" node_type="writer" parent_index="372">height: 100%;</paragraph>
+ <object index="377" name="Table74" object_type="table"/>
+ <paragraph index="379" node_type="writer" parent_index="377">position: absolute;</paragraph>
+ <object index="382" name="Table75" object_type="table"/>
+ <paragraph index="384" node_type="writer" parent_index="382">left: 0;</paragraph>
+ <object index="387" name="Table76" object_type="table"/>
+ <paragraph index="389" node_type="writer" parent_index="387">top: 0;</paragraph>
+ <object index="392" name="Table77" object_type="table"/>
+ <object index="397" name="Table78" object_type="table"/>
+ <paragraph index="399" node_type="writer" parent_index="397">z-index: 8;</paragraph>
+ <object index="402" name="Table79" object_type="table"/>
+ <paragraph index="404" node_type="writer" parent_index="402">transition: left 0.1, background-color 0.4;</paragraph>
+ <object index="407" name="Table80" object_type="table"/>
+ <paragraph index="409" node_type="writer" parent_index="407">}</paragraph>
+ <object index="412" name="Table81" object_type="table"/>
+ <paragraph index="414" node_type="writer" parent_index="412">.menu li:nth-child(1):hover ~ .slider,</paragraph>
+ <object index="417" name="Table82" object_type="table"/>
+ <paragraph index="419" node_type="writer" parent_index="417">.menu li:nth-child(1):focus ~ .slider,</paragraph>
+ <object index="422" name="Table83" object_type="table"/>
+ <paragraph index="424" node_type="writer" parent_index="422">.menu li:nth-child(1):active ~ .slider {</paragraph>
+ <object index="427" name="Table84" object_type="table"/>
+ <paragraph index="429" node_type="writer" parent_index="427">left: 25%;</paragraph>
+ <object index="432" name="Table85" object_type="table"/>
+ <paragraph index="434" node_type="writer" parent_index="432">background-color: #3498db;</paragraph>
+ <object index="437" name="Table86" object_type="table"/>
+ <paragraph index="439" node_type="writer" parent_index="437">}</paragraph>
+ <object index="442" name="Table87" object_type="table"/>
+ <paragraph index="444" node_type="writer" parent_index="442">.menu li:nth-child(2):hover ~ .slider,</paragraph>
+ <object index="447" name="Table88" object_type="table"/>
+ <paragraph index="449" node_type="writer" parent_index="447">.menu li:nth-child(2):focus ~ .slider,</paragraph>
+ <object index="452" name="Table89" object_type="table"/>
+ <paragraph index="454" node_type="writer" parent_index="452">.menu li:nth-child(2):active ~ .slider {</paragraph>
+ <object index="457" name="Table90" object_type="table"/>
+ <paragraph index="459" node_type="writer" parent_index="457">left: -100%;</paragraph>
+ <object index="462" name="Table91" object_type="table"/>
+ <paragraph index="464" node_type="writer" parent_index="462">background-color: #9b59b6;</paragraph>
+ <object index="467" name="Table92" object_type="table"/>
+ <paragraph index="469" node_type="writer" parent_index="467">}</paragraph>
+ <object index="472" name="Table93" object_type="table"/>
+ <paragraph index="474" node_type="writer" parent_index="472">.menu li:nth-child(3):hover ~ .slider,</paragraph>
+ <object index="477" name="Table94" object_type="table"/>
+ <paragraph index="479" node_type="writer" parent_index="477">.menu li:nth-child(3):focus ~ .slider,</paragraph>
+ <object index="482" name="Table95" object_type="table"/>
+ <paragraph index="484" node_type="writer" parent_index="482">.menu li:nth-child(3):active ~ .slider {</paragraph>
+ <object index="487" name="Table96" object_type="table"/>
+ <paragraph index="489" node_type="writer" parent_index="487">left: 50%;</paragraph>
+ <object index="492" name="Table97" object_type="table"/>
+ <paragraph index="494" node_type="writer" parent_index="492">background-color: #e67e22;</paragraph>
+ <object index="497" name="Table98" object_type="table"/>
+ <paragraph index="499" node_type="writer" parent_index="497">}</paragraph>
+ <object index="502" name="Table99" object_type="table"/>
+ <paragraph index="504" node_type="writer" parent_index="502">.menu li:nth-child(4):hover ~ .slider,</paragraph>
+ <object index="507" name="Table100" object_type="table"/>
+ <paragraph index="509" node_type="writer" parent_index="507">.menu li:nth-child(4):focus ~ .slider,</paragraph>
+ <object index="512" name="Table101" object_type="table"/>
+ <paragraph index="514" node_type="writer" parent_index="512">.menu li:nth-child(4):active ~ .slider {</paragraph>
+ <object index="517" name="Table102" object_type="table"/>
+ <paragraph index="519" node_type="writer" parent_index="517">left: 75%;</paragraph>
+ <object index="522" name="Table103" object_type="table"/>
+ <paragraph index="524" node_type="writer" parent_index="522">background-color: #16a085;</paragraph>
+ <object index="527" name="Table104" object_type="table"/>
+ <paragraph index="529" node_type="writer" parent_index="527">}</paragraph>
+ <object index="532" name="Table105" object_type="table"/>
+ <object index="537" name="Table106" object_type="table"/>
+ <paragraph index="539" node_type="writer" parent_index="537">h1 {</paragraph>
+ <object index="542" name="Table107" object_type="table"/>
+ <paragraph index="544" node_type="writer" parent_index="542">text-align: center;</paragraph>
+ <object index="547" name="Table108" object_type="table"/>
+ <paragraph index="549" node_type="writer" parent_index="547">font-size: 48px;</paragraph>
+ <object index="552" name="Table109" object_type="table"/>
+ <paragraph index="554" node_type="writer" parent_index="552">text-transform: uppercase;</paragraph>
+ <object index="557" name="Table110" object_type="table"/>
+ <paragraph index="559" node_type="writer" parent_index="557">letter-spacing: 3px;</paragraph>
+ <object index="562" name="Table111" object_type="table"/>
+ <paragraph index="564" node_type="writer" parent_index="562">color: #222;</paragraph>
+ <object index="567" name="Table112" object_type="table"/>
+ <paragraph index="569" node_type="writer" parent_index="567">animation: wiggle 3s linear infinite;</paragraph>
+ <object index="572" name="Table113" object_type="table"/>
+ <object index="577" name="Table114" object_type="table"/>
+ <paragraph index="579" node_type="writer" parent_index="577">}</paragraph>
+ <object index="582" name="Table115" object_type="table"/>
+ <paragraph index="584" node_type="writer" parent_index="582">/* Keyframes */</paragraph>
+ <object index="587" name="Table116" object_type="table"/>
+ <paragraph index="589" node_type="writer" parent_index="587">@keyframes wiggle {</paragraph>
+ <object index="592" name="Table117" object_type="table"/>
+ <paragraph index="594" node_type="writer" parent_index="592">0%, 7% {</paragraph>
+ <object index="597" name="Table118" object_type="table"/>
+ <paragraph index="599" node_type="writer" parent_index="597">transform: rotateZ(0);</paragraph>
+ <object index="602" name="Table119" object_type="table"/>
+ <paragraph index="604" node_type="writer" parent_index="602">}</paragraph>
+ <object index="607" name="Table120" object_type="table"/>
+ <paragraph index="609" node_type="writer" parent_index="607">15% {</paragraph>
+ <object index="612" name="Table121" object_type="table"/>
+ <paragraph index="614" node_type="writer" parent_index="612">transform: rotateZ(-15deg);</paragraph>
+ <object index="617" name="Table122" object_type="table"/>
+ <paragraph index="619" node_type="writer" parent_index="617">}</paragraph>
+ <object index="622" name="Table123" object_type="table"/>
+ <paragraph index="624" node_type="writer" parent_index="622">20% {</paragraph>
+ <object index="627" name="Table124" object_type="table"/>
+ <paragraph index="629" node_type="writer" parent_index="627">transform: rotateZ(10deg);</paragraph>
+ <object index="632" name="Table125" object_type="table"/>
+ <paragraph index="634" node_type="writer" parent_index="632">}</paragraph>
+ <object index="637" name="Table126" object_type="table"/>
+ <paragraph index="639" node_type="writer" parent_index="637">25% {</paragraph>
+ <object index="642" name="Table127" object_type="table"/>
+ <paragraph index="644" node_type="writer" parent_index="642">transform: rotateZ(-10deg);</paragraph>
+ <object index="647" name="Table128" object_type="table"/>
+ <paragraph index="649" node_type="writer" parent_index="647">}</paragraph>
+ <object index="652" name="Table129" object_type="table"/>
+ <paragraph index="654" node_type="writer" parent_index="652">30% {</paragraph>
+ <object index="657" name="Table130" object_type="table"/>
+ <paragraph index="659" node_type="writer" parent_index="657">transform: rotateZ(6deg);</paragraph>
+ <object index="662" name="Table131" object_type="table"/>
+ <paragraph index="664" node_type="writer" parent_index="662">}</paragraph>
+ <object index="667" name="Table132" object_type="table"/>
+ <paragraph index="669" node_type="writer" parent_index="667">35% {</paragraph>
+ <object index="672" name="Table133" object_type="table"/>
+ <paragraph index="674" node_type="writer" parent_index="672">transform: rotateZ(-4deg);</paragraph>
+ <object index="677" name="Table134" object_type="table"/>
+ <paragraph index="679" node_type="writer" parent_index="677">}</paragraph>
+ <object index="682" name="Table135" object_type="table"/>
+ <paragraph index="684" node_type="writer" parent_index="682">40%, 100% {</paragraph>
+ <object index="687" name="Table136" object_type="table"/>
+ <paragraph index="689" node_type="writer" parent_index="687">transform: rotateZ(0);</paragraph>
+ <object index="692" name="Table137" object_type="table"/>
+ <paragraph index="694" node_type="writer" parent_index="692">}</paragraph>
+ <paragraph index="697" node_type="writer">}</paragraph>
+</indexing>
